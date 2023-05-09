@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Swain, aka @rswatriumvir on GitHub
 - 👀 I’m interested in technology, public policy, and pop culture
-- 🌱 I’m currently learning how to use visualizationn, data science, and computer algorithms to explore those areas
+- 🌱 I’m currently learning how to use visualization, data science, and computer algorithms to explore those areas
 - 📫 How to reach me @roswain2002@gmail.com
 
 Here are some of the projects I have worked on. 
